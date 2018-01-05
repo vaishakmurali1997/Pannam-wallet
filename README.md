@@ -1,5 +1,1 @@
-# PannamWallet
-# PannamWallet
-# Pannam-Wallet
-# Pannam-Wallet
-# Pannam-wallet
+Pannam wallet developed by Vaishak Murali.
