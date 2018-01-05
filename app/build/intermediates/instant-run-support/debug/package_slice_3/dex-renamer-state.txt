@@ -1,0 +1,4 @@
+#Fri Jan 05 14:01:34 IST 2018
+base.0=/Users/vaishakmurali/AndroidStudioProjects/PanamWallet/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

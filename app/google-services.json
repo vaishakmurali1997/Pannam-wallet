@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605991064719",
+    "firebase_url": "https://panamwallet.firebaseio.com",
+    "project_id": "panamwallet",
+    "storage_bucket": "panamwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605991064719:android:102a5ceeee03a925",
+        "android_client_info": {
+          "package_name": "com.example.vaishakmurali.panamwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605991064719-0otef9p1hkcacejvkct1gnlhj98ies65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaishakmurali.panamwallet",
+            "certificate_hash": "6f011bd4f27505e8fbaccdd164ef48a7f689e198"
+          }
+        },
+        {
+          "client_id": "605991064719-kaoa7ghett3p6e9df9gqqk51otrbb47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk90YT8O6n2MlumLoVUgdi_BNWOWa9YmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605991064719-kaoa7ghett3p6e9df9gqqk51otrbb47p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
